@@ -1,0 +1,2 @@
+- Abreviação para *Medium Density Fiberboard*
+- Tipo de material muito utilizado em móveis
