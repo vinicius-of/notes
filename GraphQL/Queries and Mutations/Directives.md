@@ -1,0 +1,6 @@
+- Directives are a feature that allow us to attach to a field or fragment to the query.
+- Useful to construct dynamic structures into queries.
+- The GraphQL specification includes exactly two directives, which must be supported by any spec-compliant GraphQL server implementation:
+	- `@include(if: Boolean)` Only include this field in the result if the argument is `true`.
+	- `@skip(if: Boolean)` Skip this field if the argument is `true`.
+- Directives can be useful to get out of situations where you otherwise would need to do string manipulation to add and remove fields in your query.

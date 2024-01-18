@@ -1,0 +1,7 @@
+{
+  "attachmentFolderPath": "assets",
+  "userIgnoreFilters": [
+    "GraphQL/project/"
+  ],
+  "alwaysUpdateLinks": true
+}

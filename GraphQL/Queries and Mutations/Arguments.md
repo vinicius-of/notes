@@ -1,0 +1,9 @@
+- You can pass arguments to fields.
+- ![[Pasted image 20231014043841.png]]
+- Every field and nested object can get its own set of arguments.
+- It makes GraphQL a complete replacement for making multiple API fetches.
+- You can even pass arguments into scalar fields to implement data transformations to the returned value.
+- ![[Pasted image 20231014044038.png]]
+- Arguments can be of many different types.
+- GraphQL comes with a default set o types.
+- GraphQL server can also declare its own custom types as long as they can be serialized into your transport format.

@@ -1,0 +1,4 @@
+- GraphQL asks for specific fields on object.
+- GraphQL queries can traverse related objects and their fields, letting the client fetch lots of related data in one request.
+- Fields can have the types to **Objects** and **Strings**.
+- Queries can have comments.

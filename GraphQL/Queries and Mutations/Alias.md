@@ -1,0 +1,3 @@
+- You can make two queries for the same field with different arguments using aliases.
+- ![[Pasted image 20231014044825.png]]
+- In the example above, there are two `hero` fields that would cause a conflict.
