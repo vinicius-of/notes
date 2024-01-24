@@ -1,0 +1,7 @@
+- The most basic components of GraphQL schema are **object types**, which just represent a kind of object you can fetch from your service and what fields it has.
+- ![[Pasted image 20240124045904.png]]
+- `Character`: It's a *GraphQL Object Type*, meaning it's a type with some fields.
+- `name` and `appearsIn`: are fields on the `Character` type.
+- `String` is one of the built-in *scalar* types - These are types that resolve to a single scalar object, and can't have sub-selections in the query.
+- `String!` means that the field is *non-nullable*.
+- `[Episode!]!` represents an *array* of `Episode` objects. You can always expect to receive an array (with zero or more items).

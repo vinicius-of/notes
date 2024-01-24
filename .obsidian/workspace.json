@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15d0a8a457e25f77",
+        "id": "1f8a84a9bb23764c",
         "type": "tabs",
         "children": [
           {
-            "id": "fc9a45155566cc35",
+            "id": "78611f475dfb360e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphQL/Queries and Mutations/Inline Fragments.md",
+                "file": "GraphQL/Schemas and Types/Arguments.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphQL/Queries and Mutations/Inline Fragments.md",
+                "file": "GraphQL/Schemas and Types/Arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphQL/Queries and Mutations/Inline Fragments.md",
+                "file": "GraphQL/Schemas and Types/Arguments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphQL/Queries and Mutations/Inline Fragments.md"
+                "file": "GraphQL/Schemas and Types/Arguments.md"
               }
             }
           }
@@ -148,16 +148,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fc9a45155566cc35",
+  "active": "78611f475dfb360e",
   "lastOpenFiles": [
-    "GraphQL/Packages.md",
+    "GraphQL/Schemas and Types/Object types and Fields.md",
+    "GraphQL/Schemas and Types/Arguments.md",
+    "assets/Pasted image 20240124045904.png",
+    "GraphQL/Schemas and Types/Type Language.md",
+    "GraphQL/Schemas and Types/Type system.md",
     "GraphQL/Queries and Mutations/Inline Fragments.md",
+    "GraphQL/Schemas and Types",
+    "Sem título",
+    "assets/Pasted image 20240124044635.png",
+    "GraphQL/Queries and Mutations/Fragments.md",
+    "GraphQL/Queries and Mutations.md",
+    "GraphQL/Queries and Mutations/Variables.md",
+    "GraphQL/Queries and Mutations/Aliases.md",
+    "GraphQL/Packages.md",
     "assets/Pasted image 20240104030038.png",
     "GraphQL/Queries and Mutations/Mutations.md",
     "GraphQL/Queries and Mutations/Fields.md",
-    "GraphQL/Queries and Mutations/Fragments.md",
-    "GraphQL/Queries and Mutations.md",
-    "GraphQL/Queries and Mutations/Alias.md",
     "GraphQL/Queries and Mutations/Arguments.md",
     "GraphQL/Queries and Mutations/Directives.md",
     "Resumo Contrato de Franquia.md",
@@ -173,9 +182,7 @@
     "assets/Pasted image 20231218012434.png",
     "assets/Pasted image 20231218012354.png",
     "assets/Pasted image 20231218012230.png",
-    "assets/Pasted image 20231218005657.png",
     "Annotations/How do I Access a Single Bit?.md",
-    "assets/Pasted image 20231016173711.png",
     "Annotations",
     "fields.md",
     "GraphQL/project/server/schema.js",
@@ -184,16 +191,10 @@
     "GraphQL/project/server/node_modules/graphql-http/lib/audits/utils.d.ts",
     "GraphQL/project/server/node_modules/graphql-http/lib/audits/server.d.ts",
     "GraphQL/project/server/node_modules/graphql-http/lib/audits/render.d.ts",
-    "GraphQL/project/server/node_modules/graphql-http/lib/use/node.d.ts",
-    "GraphQL/project/server/node_modules/graphql-http/lib/use/koa.d.ts",
     "GraphQL/project/server/node_modules/graphql-http/README.md",
     "GraphQL/project/server/node_modules/graphql-http/LICENSE.md",
     "GraphQL/GraphQL - To Learn About.md",
     "GraphQL/project/server/node_modules/express-graphql/README.md",
-    "GraphQL/project/server/node_modules/graphql/README.md",
-    "GraphQL/project/server/node_modules/express-graphql/node_modules/statuses/HISTORY.md",
-    "GraphQL/project/server/node_modules/express-graphql/node_modules/depd/Readme.md",
-    "GraphQL/project/server/node_modules/express-graphql/node_modules/http-errors/README.md",
-    "GraphQL/project/server/node_modules/express-graphql/node_modules/depd/History.md"
+    "GraphQL/project/server/node_modules/graphql/README.md"
   ]
 }
