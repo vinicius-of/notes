@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "15d0a8a457e25f77",
+        "id": "84fbba7a2652cb04",
         "type": "tabs",
         "children": [
           {
-            "id": "fc9a45155566cc35",
+            "id": "ac89effa0b624126",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GraphQL/Queries and Mutations/Inline Fragments.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphQL/Queries and Mutations/Inline Fragments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphQL/Queries and Mutations/Inline Fragments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GraphQL/Queries and Mutations/Inline Fragments.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,10 +140,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fc9a45155566cc35",
+  "active": "ac89effa0b624126",
   "lastOpenFiles": [
-    "GraphQL/Packages.md",
+    "Piso Vinílico.md",
+    "Piso Laminado.md",
+    "HTTP Cookies/Cookie Properties.md",
     "GraphQL/Queries and Mutations/Inline Fragments.md",
+    "GraphQL/Packages.md",
     "assets/Pasted image 20240104030038.png",
     "GraphQL/Queries and Mutations/Mutations.md",
     "GraphQL/Queries and Mutations/Fields.md",
@@ -192,8 +187,6 @@
     "GraphQL/project/server/node_modules/express-graphql/README.md",
     "GraphQL/project/server/node_modules/graphql/README.md",
     "GraphQL/project/server/node_modules/express-graphql/node_modules/statuses/HISTORY.md",
-    "GraphQL/project/server/node_modules/express-graphql/node_modules/depd/Readme.md",
-    "GraphQL/project/server/node_modules/express-graphql/node_modules/http-errors/README.md",
-    "GraphQL/project/server/node_modules/express-graphql/node_modules/depd/History.md"
+    "GraphQL/project/server/node_modules/express-graphql/node_modules/depd/Readme.md"
   ]
 }
