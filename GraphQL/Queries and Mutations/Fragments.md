@@ -5,7 +5,7 @@ aliases: []
 ---
 
 - Context: Let's say that we had a complicated page in our app. We can look at two heroes side by side. We would need to repeat the fields at least once.
-- GraphQL includes reusable unis called *fragments*.
+- GraphQL includes reusable units called *fragments*.
 - Fragments lets you construct sets of fields and include them in queries.
 - ![[Pasted image 20231218005657.png]]
 - The queries could be pretty repetitive if the fields were repeated.
