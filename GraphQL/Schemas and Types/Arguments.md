@@ -1,0 +1,7 @@
+- Every field on a GraphQL object can have zero or more arguments.
+- ![[Pasted image 20240126225810.png]]
+- All arguments are named.
+- Unlike some programming languages, all arguments in GraphQL are passed by name specifically.
+- The `length` field has one defined argument, `unit`.
+- Arguments can be either required or optional.
+- When optional, we can define a default value.
