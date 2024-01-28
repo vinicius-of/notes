@@ -1,0 +1,6 @@
+- Most types in your schema will just be normal object types, but there are two types that are special within a schema:
+- ![[Pasted image 20240126230437.png]]
+- Every GraphQL service has a `query` type and may or may not have a `mutation` type.
+- They **define a entry point** of every GraphQL query.
+- Mutations work in a similar way - you define fields on the `Mutation` type, and those are available as the root mutation fields you can call in your query.
+- The `Query` and `Mutation` type are the same as any other GraphQL Object Type, and their fields work exactly the same way.

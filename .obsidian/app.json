@@ -3,5 +3,8 @@
   "userIgnoreFilters": [
     "GraphQL/project/"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "foldIndent": true,
+  "showLineNumber": true
 }

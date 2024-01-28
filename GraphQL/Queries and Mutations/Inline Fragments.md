@@ -8,6 +8,8 @@
 
 ## Meta Fields
 
+^d8d8ad
+
 - Some situations you won't know what type you will get back from the GraphQL service.
 - You need some way to determine how to handle that data on the client.
 - GraphQL allows you to request `__typename`, a meta field.
