@@ -14,5 +14,4 @@
 - You need some way to determine how to handle that data on the client.
 - GraphQL allows you to request `__typename`, a meta field.
 - ![[Pasted image 20240124044635.png]]
-- In the above query, search returns a union type.
-- 
+- In the above query, search returns a [[Union Types|union type]].

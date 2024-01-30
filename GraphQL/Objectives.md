@@ -2,7 +2,7 @@
 
 - [X] Queries and Mutations
 - [X] Schemes and Types
-- [ ] Validation
+- [x] Validation
 - [ ] Execution
 	- [ ] Intro
 	- [ ] Root Fields & Resolvers
