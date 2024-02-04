@@ -4,7 +4,7 @@
 - [X] Schemes and Types
 - [x] Validation
 - [ ] Execution
-	- [ ] Intro
+	- [x] Intro
 	- [ ] Root Fields & Resolvers
 	- [ ] Asynchronous Resolvers
 	- [ ] Trivial Resolvers

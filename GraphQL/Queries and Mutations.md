@@ -78,7 +78,7 @@ tags:
 - To define a variable: `($episode: Episode)`
 - It lists all of the variables, prefixed by $, followed by their type, in this case `Episode`.
 - All declared variables must be: Scalars, Enums, or Input Object Types.
-- Learn more about it on the [[Schema]] page.
+- Learn more about it on the [[Type System|schema]] page.
 - Variables definitions can be **optional** or **required**.
 - To define as required, you should use `!` next to the `Episode` type.
 

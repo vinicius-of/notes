@@ -1,0 +1,1 @@
+O presente Código estabelece normas de proteção e defesa do consumidor, de ordem pública e interesse social, nos termos dos artigos (5-XXXII, 170-V,) da constituição federal e artigo 48 de suas disposições transitórias.
