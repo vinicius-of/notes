@@ -5,10 +5,10 @@
 - [x] Validation
 - [ ] Execution
 	- [x] Intro
-	- [ ] Root Fields & Resolvers
-	- [ ] Asynchronous Resolvers
-	- [ ] Trivial Resolvers
-	- [ ] Scalar Coercion
+	- [x] Root Fields & Resolvers
+	- [x] Asynchronous Resolvers
+	- [x] Trivial Resolvers
+	- [x] Scalar Coercion
 	- [ ] List Resolvers
 	- [ ] Producing the result
 - [ ] Introspection
@@ -25,5 +25,5 @@
 
 ## Apollo Server
 
-- [] Start GraphQL Apollo Course from Net Ninja or any other course.
-- [] Develop other checkpoints.
+- [ ] Start GraphQL Apollo Course from Net Ninja or any other course.
+- [ ] Develop other checkpoints.
