@@ -3,14 +3,14 @@
 - [X] Queries and Mutations
 - [X] Schemes and Types
 - [x] Validation
-- [ ] Execution
+- [x] Execution
 	- [x] Intro
 	- [x] Root Fields & Resolvers
 	- [x] Asynchronous Resolvers
 	- [x] Trivial Resolvers
 	- [x] Scalar Coercion
-	- [ ] List Resolvers
-	- [ ] Producing the result
+	- [x] List Resolvers
+	- [x] Producing the result
 - [ ] Introspection
 
 ## Best Practices

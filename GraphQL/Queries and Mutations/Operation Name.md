@@ -2,7 +2,7 @@
 - The operation type is either:  `query`, `mutation`, `subscription`.
 - It describes which type of operation you are intending to execute.
 - The operation type is always **required** unless you are using `query` shorthand syntax as such:
-```
+```json
 	{
 		hero {
 			name
