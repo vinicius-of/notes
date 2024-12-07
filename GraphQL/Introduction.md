@@ -1,5 +1,6 @@
 ---
 tags:
+  - graphql
 ---
 - GraphQL is a powerful query language used to communicate data between a client and server.
 - GraphQL is not tied to any specific database or stage engine.

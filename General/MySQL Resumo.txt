@@ -1,0 +1,104 @@
+MySQL Resumo
+
+mysql5 -u mysqladmin -p -- To log in to MySQL by the terminal
+
+quit -- to exit of MySQL account on the terminal
+
+show databases; -- To show all active database
+
+CREATE DATABASE name_of_database; -- To create a new database and select the Database's name
+
+USE name_of_database -- Active the selected database
+
+SELECT DATABASE() -- Show the currently selected database
+
+DROP DATABASE IF EXISTS name_of_database -- Delete the named database
+
+DESCRIBE named_Table---
+
+INSERT INTO student VALUES
+	('Dale', 'Cooper', 'dcopper@mail.com',
+	'12 main Street', ...);
+
+	--
+
+SELECT * FROM student --
+
+-----------------
+
+Numeric Types
+	
+	TINYINT -- 127 TO -128
+	SMALLINT -- 32,768 TO -32,767
+	MEDIUMINT -- 8,388,608 to -8,388,608
+	INT -- 2^31 TO -2^31 - 1
+	BIGINT -- 2^26 TO -2^63 - 1
+	FLOAT -- Decimal spaces, 1.1e38 to -1.1e38
+	DOUBLE -- Decimal spaces, 1.7e308 to -1.7e308
+
+String Types
+
+	CHAR -- A character string with a fixed length
+	VARCHAR -- A character string with a length that's varialbe
+	BLOB -- Can contain 2^16 bytes of data
+	ENUM -- A character string that has a limited number of total values, which you must define.
+	SET -- A list of legal possible character strings. Unlike ENUM, a set can contain multiple values in comparison to the one legal value with ENUM.
+
+Date and Time Types
+
+	DATE: YYYY-MM-DD
+	TIME: HH:MM:SS
+	DATETIME: YYYY-MM-DD HH:MM:SS
+	TIMESTAMP: YYYYMMDDHHMMSS
+	YEAR: YYYY
+
+Creating a Model of a Database
+
+ Creating a database based on a student system, so we will do:
+
+ 1. Create a Database
+ 2. Create the tables
+ 3. 
+ 4.
+ 5.
+ 6.
+
+ 	1. Creating a Database
+
+CREATE TABLE student(
+	first_name VARCHAR(30) NOT NULL,
+	last_name VARCHAR(30) NOT NULL,
+	email VARCHAR(60) NULL,
+	address VARCHAR(120) NOT NULL,
+	state CHAR(2) NOT NULL DEFAULT "PA",
+	phone VARCHAR(20) NOT NULL,
+	birth_date DATE NOT NULL,
+	sex ENUM('M', 'F', 'OTHER') NOT NULL,
+	date_entered TIMESTAMP NOT NULL,
+	lunch_cost FLOAT NULL,
+	student_id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY
+	);
+
+CREATE TABLE class (
+	name VARCHAR(30) NOT NULL,
+	class_id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY
+);
+
+
+Commands on Shell Client MySQL
+
+	SHOW DATABASES/TABLES {from name_of_database};
+	USE name_of_db;
+	DESCRIBE name_of_table;
+	SELECT name_of_attribute / * FROM name_of_table WHERE "condition";
+	CREATE TABLE
+	CREATE DATABASE
+
+Manipulating the tables and informations
+
+	INSERT INTO name_of_table VALUES ("Values of the object");
+
+	UPDATE name_of_table SET column1 = value1, column1 = value1, column1 = value1 WHERE "condition";
+
+	DELETE FROM name_of_table  WHERE "condition";
+	DELETE FROM name_of_table;

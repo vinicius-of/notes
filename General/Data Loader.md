@@ -17,4 +17,3 @@ Fonte: [Dataloader GraphQL Medium](https://medium.com/@emanuelgsouza/conhecendo-
 ![[Pasted image 20240814155959.png]]
 
 - Código refatorado para usar *Data loader*.
-- 
