@@ -1,0 +1,1 @@
+Você pode configurar o Collector do Otel para suas necessidades.

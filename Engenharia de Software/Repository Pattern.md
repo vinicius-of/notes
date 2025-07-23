@@ -14,7 +14,7 @@ tags:
 - Nossas entidades da camada de negócio não devem sofrer impactos pela forma em que são persistidas no banco de dados.
 
 ### Benefícios
-- Permite a troca de [[Banco de dados|banco de dados]] sem afetar o sistema.
+- Permite a troca de [[Introdução ao Banco de Dados|banco de dados]] sem afetar o sistema.
 - Evita duplicidade de código.
 - Facilita implementação de [[Testes unitários|testes unitários]].
 - Diminui acoplamento entre classes.

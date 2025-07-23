@@ -3,6 +3,7 @@ tags:
   - web
   - server
   - back-end
+  - not-done
 ---
 Fontes: 
 [What are web servers and how do they work](https://www.youtube.com/watch?v=JhpUch6lWMw)

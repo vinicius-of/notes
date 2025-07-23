@@ -1,4 +1,4 @@
-The example query to provide context from [[Intro]].
+The example query to provide context from [[GraphQL/Execution/Intro]].
 ![[Pasted image 20240206002120.png]]
 
 Resolving `appearsIn`.

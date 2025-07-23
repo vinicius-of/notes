@@ -1,0 +1,14 @@
+- **CREATE**
+	- Utilizado para efetuar a criação de um BD ou tabela
+	- Ex.: ``CREATE TABLE`` ou ``CREATE DATABASE``
+	- Sintaxe: ``CREATE TABLE NomeTabela({ Coluna }, { Tipo }, {Restrições})``
+- **USE**
+	- Utilizado para escolha e acesso à banco de dados e tabelas.
+	- Ex.: ``USE (nome_banco)``
+- **DROP**
+	- Remover banco de dados
+	- Ex.: ``DROP DATABASE (nome_banco)``
+- **GO**
+	- Comando que indica o encerramento de uma instrução
+	- Ex.: `GO SELECT * FROM (nome_tabela)`
+

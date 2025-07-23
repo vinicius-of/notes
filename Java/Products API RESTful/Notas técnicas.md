@@ -1,6 +1,0 @@
-- resources/application.properties?
-- spring.datasource?
-- serialVersionUID: O número de controle de classes que forem serializadas.
-- DataSourceBuilder?
-- Spring Data JPA?
-- Spring Bean?

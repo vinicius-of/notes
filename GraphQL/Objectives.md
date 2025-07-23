@@ -11,7 +11,7 @@
 	- [x] Scalar Coercion
 	- [x] List Resolvers
 	- [x] Producing the result
-- [ ] Introspection
+- [x] Introspection
 
 ## Best Practices
 
