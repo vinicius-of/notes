@@ -22,9 +22,9 @@ Fonte: [Publicação do LinkedIn](https://www.linkedin.com/posts/rani-dhage_lld-
 
 ## Design de banco de dados
 
-- [ ] Diagramas Entidade-Relacionamento
-- [ ] Normalização
-- [ ] Relacionamentos
+- [x] Diagramas Entidade-Relacionamento
+- [x] Normalização
+- [x] Relacionamentos
 
 ## Multithreading & Concorrência
 

@@ -1,0 +1,14 @@
+- AWS Outposts são grades de servidores rodando a infraestrutura da AWS no seu local físico.
+- Com isso, também é um serviço que oferece a <mark style="background: #BBFABBA6; background: #BBFABBA6; color: white;">infraestrutura da AWS virtualmente igual</mark> como: serviços, APIs e ferramentas para virtualmente qualquer datacenter, *co-location* ou estrutura [[1- Conceitos de Cloud#^8ee138|On-Premise]] para uma verdadeira experiência híbrida.
+
+- AWS Outposts vêm em 3 formas:
+	- 42U
+		- AWS entrega no local físico totalmente pronto para uso, somente necessitando ligar na energia e na rede.
+	- 1U
+		- AWS Graviton2 (até 34 vCPUs)
+		- 128 GiB memória
+		- 4 TB de NVMe de armazenamento
+	- 2U
+		- Inter Processor (até 128 vCPUs)
+		- 256 GiB memória
+		- 8 TB de NVMe de armazenamento

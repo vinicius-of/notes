@@ -1,0 +1,3 @@
+- Representa a interconexão entre [[AWS Infraestrutura Global]].
+- Comumente é referenciado como "A espinha dorsal da AWS" ("*The Backbone of AWS*").
+- Funciona como uma via expressa entre os datacenters, onde os dados podem trafegar rapidamente.

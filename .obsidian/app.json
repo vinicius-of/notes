@@ -8,5 +8,6 @@
   "foldIndent": true,
   "showLineNumber": true,
   "smartIndentList": true,
-  "useTab": true
+  "useTab": true,
+  "promptDelete": false
 }
