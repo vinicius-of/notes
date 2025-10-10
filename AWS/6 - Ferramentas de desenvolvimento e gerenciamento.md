@@ -75,3 +75,10 @@
 	- Bash
 	- Zsh
 	- PowerShell
+
+## AWS SDK
+
+- Uma coleção de ferramentas para desenvolvimento de software (Software Development Kit) em um pacote instalável.
+- É utilizado para operar com métodos de criar, modificar, interagir ou remover com os recursos da AWS.
+- É oferecido em diversas linguagens.
+
