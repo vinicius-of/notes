@@ -4,9 +4,9 @@
 - Para permissão legal e alocação de espaço para estabelecer este local físico, é necessário ***Compliance Boundaries*** e **Data Sovereignty***.
 
 - Para *workloads* que precisam obedecer o **Compliance Boundaries*** de forma restrita, é necessário definir a residência dos dados e os recursos da nuvem.
-- A AWS tem recursos que ajudam com isso, sendo eles:
+- A AWS tem recursos que ajudam com isso, sendo eles: ^45652e
 
-	- **AWS Outposts**
+	- **AWS Outposts** ^868c0e
 		- Uma grade de servidores físicos da AWS para colocar no seu datacenter.
 		- Seus dados irão residir onde seu *outpost* residir.
 		- Solução custosa.

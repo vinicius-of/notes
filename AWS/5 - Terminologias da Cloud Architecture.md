@@ -56,7 +56,7 @@
 ![[Pasted image 20251005002932.png]]
 
 - Não existe *"Scale Down"* para diminuir o tamanho verticalmente, não é algo usual para a arquitetura tradicional.
-- Há um serviço chamado ***Auto Scaling Groups (ASG)*** que permite adicionar o remover servidores automaticamente baseado nas regras de escabilidade definidas e baseadas em métricas.
+- Há um serviço chamado [[8 - Serviços de computação#^5f9d3c|Autoscaling Groups (ASGs)]] que permite adicionar o remover servidores automaticamente baseado nas regras de escabilidade definidas e baseadas em métricas.
 
 ## Fault Tolerance
 

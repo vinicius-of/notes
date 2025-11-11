@@ -16,3 +16,15 @@
 [[Event Sourcing]]
 [[DDD]]
 [[Gitflow]]
+[[Memoizing]]
+[[Content Delivery Network]]
+
+### Banco de dados
+
+[[Two-phase commit (2PC)]]
+[[Índices]]
+[[Sharding]]
+[[Performance]]
+[[Stored Procedures]]
+[[Triggers]]
+[[Planos de backup e recuperação]]

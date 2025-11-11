@@ -4,7 +4,7 @@
 - Para AWS, um ponto de presença é um datacenter proprietário ou um parceiro confiável que é utilizado pelos serviços AWS em relação <mark style="background: #BBFABBA6; color: white;">a entrega de conteúdo ou upload de dados</mark>.
 
 - Os recursos do PoP são:
-	- [[#^ed036a|Edge Locations]]
+	- [[#^ed036a|Edge Locations]] ^6b776b
 	- [[#^e25b53|Caches Regionais Edge]]
 
 ![[Pasted image 20251001005958.png]]

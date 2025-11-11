@@ -12,6 +12,8 @@
 
 ## O que é um Provedor de Serviço de Nuvem (CSP)?
 
+^764685
+
 - É uma empresa que:
 	- Provê múltiplos serviços em nuvem (exemplo como de 10 a 100 serviços)
 	- Aqueles que provê serviços que podem trabalhar juntos para criar uma arquitetura em nuvem.

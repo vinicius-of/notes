@@ -63,6 +63,8 @@ aliases:
 
 ### Bando de dados
 
+^71bdf0
+
 - Repositório para armazenar informações
 - Retrata minimundo e quaisquer mudanças nestes dados
 

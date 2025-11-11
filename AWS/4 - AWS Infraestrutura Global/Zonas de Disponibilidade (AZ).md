@@ -22,6 +22,8 @@
 
 ### Zonas Locais (Local Zones)
 
+^a50543
+
 - São datacenters localizados perto de áreas populares/densas para prover performance de baixa latência para aquela área.
 - O propósito dos Local Zone é apoiar aplicações de alta demanda e sensíveis a latência como:
 	- Mídia e Entretenimento
@@ -30,6 +32,8 @@
 	- Machine Learning
 
 ## AWS Zonas de *Wavelength*
+
+^8cfe3d
 
 - Te permite usar computação de ponta em redes 5G.
 - Aplicações terão latência extremamente baixa estando o mais próximo possível dos usuários.

@@ -5,7 +5,7 @@
 	- 102 Zonas disponíveis
 	- 115 Locais com conexão direta
 	- 550+ Pontos de presença
-	- 35 Zonas locais
+	- 35 Zonas locais ^4c56bd
 	- 29 Zonas de tamanho de ondas
 
 ## Quatro fatores para considerar
